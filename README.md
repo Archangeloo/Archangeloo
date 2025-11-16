@@ -39,15 +39,7 @@ Apaixonado por tecnologia, desenvolvimento de jogos, automação e criação de 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🐍 Contribuições
-<div align="center">
-  
-![Snake animation](https://github.com/Archangeloo/Archangeloo/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ---
 
