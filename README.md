@@ -46,7 +46,6 @@ Apaixonado por tecnologia, desenvolvimento de jogos, automação e criação de 
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Archangeloo&show_icons=true&theme=tokyonight&hide_border=true)
