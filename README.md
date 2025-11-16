@@ -13,7 +13,6 @@ Apaixonado por tecnologia, desenvolvimento de jogos, automação e criação de 
 
 ## 🧩 Áreas de interesse
 
-🎮 Game Development  
 ⚙️ Automação e scripts  
 🌐 Desenvolvimento Web  
 🧠 Lógica, algoritmos e estruturas de dados  
@@ -27,21 +26,19 @@ Apaixonado por tecnologia, desenvolvimento de jogos, automação e criação de 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎮 Game Dev
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
 ### 🌐 Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧰 Ferramentas Extras
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
