@@ -45,17 +45,6 @@ Apaixonado por tecnologia, desenvolvimento de jogos, automação e criação de 
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Archangeloo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archangeloo&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contato
 📧 **Email:** gustavol.archangelo@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gustavo-archangelo/  
