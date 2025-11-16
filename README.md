@@ -42,6 +42,15 @@ Apaixonado por tecnologia, desenvolvimento de jogos, automação e criação de 
 
 ---
 
+## 🐍 Contribuições
+<div align="center">
+  
+![Snake animation](https://github.com/Archangeloo/Archangeloo/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 📫 Contato
 📧 **Email:** gustavol.archangelo@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gustavo-archangelo/  
