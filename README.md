@@ -1,6 +1,6 @@
 <h1 align="center">💻 Gustavo Archangelo</h1>
 <p align="center">
-  <strong>Desenvolvedor • Técnico em ADS • Estudante de Ciência da Computação</strong>
+  <strong>Desenvolvedor JR • Técnico em ADS • Estudante de Ciência da Computação</strong>
 </p>
 
 ---
@@ -53,4 +53,3 @@ Apaixonado por tecnologia, desenvolvimento de jogos, automação e criação de 
   Feito com 💙 por Gustavo Archangelo
 </p>
 
-![coding-gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVqbWtsaGNiZzEwdXNoeHVqZml1ZzdrdGpnZXA2cXJjaHR4aXBhaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif)
